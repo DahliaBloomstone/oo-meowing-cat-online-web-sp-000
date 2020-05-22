@@ -8,4 +8,4 @@ maru.name = "Maru"
 maru = Cat.new
 maru.meow = "meow!"
 
-puts Cat
+puts maru.meow
